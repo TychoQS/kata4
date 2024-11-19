@@ -1,7 +1,6 @@
 package software.ulpgc.kata4.architecture.io;
 
 import software.ulpgc.kata4.architecture.model.Title;
-import software.ulpgc.kata4.architecture.model.TitleDeserializer;
 
 import java.io.*;
 

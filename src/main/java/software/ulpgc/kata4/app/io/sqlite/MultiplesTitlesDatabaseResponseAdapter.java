@@ -1,6 +1,6 @@
 package software.ulpgc.kata4.app.io.sqlite;
 
-import software.ulpgc.kata4.architecture.model.DatabaseResponseAdapter;
+import software.ulpgc.kata4.architecture.io.DatabaseResponseAdapter;
 import software.ulpgc.kata4.architecture.model.Title;
 
 import java.io.IOException;

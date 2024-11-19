@@ -1,4 +1,6 @@
-package software.ulpgc.kata4.architecture.model;
+package software.ulpgc.kata4.architecture.io;
+
+import software.ulpgc.kata4.architecture.model.Title;
 
 public class TsvTitleDeserializer implements TitleDeserializer{
     private static final int ID = 0;

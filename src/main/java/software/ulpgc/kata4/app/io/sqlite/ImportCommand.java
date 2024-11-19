@@ -3,7 +3,7 @@ package software.ulpgc.kata4.app.io.sqlite;
 import software.ulpgc.kata4.architecture.control.Command;
 import software.ulpgc.kata4.architecture.io.FileTiteReader;
 import software.ulpgc.kata4.architecture.model.Title;
-import software.ulpgc.kata4.architecture.model.TsvTitleDeserializer;
+import software.ulpgc.kata4.architecture.io.TsvTitleDeserializer;
 
 import java.io.File;
 import java.io.IOException;

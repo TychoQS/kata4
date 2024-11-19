@@ -1,4 +1,6 @@
-package software.ulpgc.kata4.architecture.model;
+package software.ulpgc.kata4.architecture.io;
+
+import software.ulpgc.kata4.architecture.model.Title;
 
 import java.io.IOException;
 import java.util.List;
